@@ -1,6 +1,7 @@
 
 
 public class Pisica {
+    private int y;
     private int x;
     private int varsta;
     private String nume;
